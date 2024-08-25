@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/deepak rajput" target="blank"><img src="https://img.shields.io/twitter/follow/deepak rajput?logo=twitter&style=for-the-badge" alt="deepak rajput" /></a> </p>
 
-- 🔭 i'have complete project [Laravel_Shop_Website](https://github.com/Deepakrajput04/ ShopEase Website)
+- 🔭 i'have complete project [ShopEase_Website](https://github.com/Deepakrajput04/ShopEase_Website)
 
 - 🌱 I’m currently learning **nodejs**
 
